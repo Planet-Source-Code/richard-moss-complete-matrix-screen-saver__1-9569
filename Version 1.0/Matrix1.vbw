@@ -1,0 +1,7 @@
+frmScreenSaver = 153, 105, 600, 510, , 0, 0, 0, 0, C
+modMatrixScr = 153, 105, 600, 510, C
+modScreenSaverSupport = 153, 105, 600, 510, C
+frmConfig = 153, 105, 600, 510, C, 0, 0, 0, 0, C
+frmAbout = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+asxColourSelect = 0, 0, 0, 0, C, 130, 82, 577, 487, C
+modFontCommonDialogs = 153, 105, 600, 510, C
